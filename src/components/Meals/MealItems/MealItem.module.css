@@ -1,0 +1,19 @@
+.li {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.name {
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
+.description {
+  font-style: italic;
+}
+
+.price {
+  font-weight: 700;
+}
